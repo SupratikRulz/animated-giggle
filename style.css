@@ -1,0 +1,11 @@
+.box {
+  background-color: grey;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  transition: transform 0.5s;
+}
+
+.move {
+  transform: translateX(500px);
+}
